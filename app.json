@@ -1,8 +1,8 @@
 {
   "name": "Start on Heroku: Ruby",
-  "description": "A barebones Rails app, which can easily be deployed to Heroku",
+  "description": "Test app restful",
   "image": "heroku/ruby",
-  "repository": "https://github.com/heroku/ruby-getting-started",
+  "repository": "https://github.com/biochemistry43/sysChurch",
   "keywords": ["ruby", "rails" ],
   "addons": [ "heroku-postgresql" ]
 }
